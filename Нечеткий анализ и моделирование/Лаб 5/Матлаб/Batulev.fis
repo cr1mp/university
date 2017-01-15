@@ -1,0 +1,49 @@
+[System]
+Name='Batulev'
+Type='mamdani'
+Version=2.0
+NumInputs=3
+NumOutputs=1
+NumRules=3
+AndMethod='min'
+OrMethod='max'
+ImpMethod='min'
+AggMethod='max'
+DefuzzMethod='centroid'
+
+[Input1]
+Name='input1'
+Range=[0 1]
+NumMFs=3
+MF1='T11':'pimf',[-0.4 -0.05 0.05 0.4]
+MF2='T12':'pimf',[0.1 0.45 0.55 0.9]
+MF3='T13':'pimf',[0.6 0.95 1.05 1.4]
+
+[Input2]
+Name='input2'
+Range=[0 1]
+NumMFs=3
+MF1='T21':'trimf',[-0.4 0 0.4]
+MF2='T22':'trimf',[0.1 0.5 0.9]
+MF3='T23':'trimf',[0.6 1 1.4]
+
+[Input3]
+Name='input3'
+Range=[0 1]
+NumMFs=3
+MF1='T31':'trimf',[-0.4 0 0.4]
+MF2='T32':'trimf',[0.1 0.5 0.9]
+MF3='T33':'trimf',[0.6 1 1.4]
+
+[Output1]
+Name='output1'
+Range=[0 1]
+NumMFs=3
+MF1='X1':'trimf',[-0.4 0 0.4]
+MF2='X2':'trimf',[0.1 0.5 0.9]
+MF3='X3':'trimf',[0.6 1 1.4]
+
+[Rules]
+3 1 2, 1 (1) : 1
+2 3 1, 2 (1) : 2
+1 2 0, 3 (1) : 1

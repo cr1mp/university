@@ -1,0 +1,53 @@
+[System]
+Name='BatulevFis'
+Type='sugeno'
+Version=2.0
+NumInputs=2
+NumOutputs=1
+NumRules=9
+AndMethod='prod'
+OrMethod='max'
+ImpMethod='prod'
+AggMethod='sum'
+DefuzzMethod='wtaver'
+
+[Input1]
+Name='time'
+Range=[0 24]
+NumMFs=3
+MF1='morning':'gaussmf',[2.5 0]
+MF2='lunch':'gaussmf',[2.5 12]
+MF3='eve':'gaussmf',[2.5 24]
+
+[Input2]
+Name='range'
+Range=[0 100]
+NumMFs=3
+MF1='near':'trapmf',[0 0 10 25]
+MF2='far':'trapmf',[75 90 100 100]
+MF3='middle':'trapmf',[10 40 60 90]
+
+[Output1]
+Name='bus'
+Range=[0 23.5850079021245]
+NumMFs=9
+MF1='few':'constant',[5]
+MF2='few1':'constant',[5]
+MF3='few2':'constant',[5]
+MF4='few3':'constant',[5]
+MF5='normal':'constant',[15]
+MF6='many1':'constant',[25]
+MF7='many2':'constant',[25]
+MF8='few4':'constant',[5]
+MF9='many':'constant',[25]
+
+[Rules]
+1 1, 9 (1) : 1
+1 3, 6 (1) : 1
+1 2, 1 (1) : 1
+2 1, 2 (1) : 1
+2 3, 5 (1) : 1
+2 2, 3 (1) : 1
+3 1, 4 (1) : 1
+3 3, 7 (1) : 1
+3 2, 8 (1) : 1
