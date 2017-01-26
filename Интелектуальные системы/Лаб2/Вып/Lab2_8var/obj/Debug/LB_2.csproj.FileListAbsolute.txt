@@ -1,0 +1,30 @@
+C:\Users\Лена Атрошенкова\Desktop\LB_2\Lab2_12var\bin\Debug\Lab2_12var.exe.config
+C:\Users\Лена Атрошенкова\Desktop\LB_2\Lab2_12var\obj\Debug\Lab2_12var.exe
+C:\Users\Лена Атрошенкова\Desktop\LB_2\Lab2_12var\obj\Debug\Lab2_12var.pdb
+C:\Users\Лена Атрошенкова\Desktop\LB_2\Lab2_12var\bin\Debug\Lab2_12var.exe
+C:\Users\Лена Атрошенкова\Desktop\LB_2\Lab2_12var\bin\Debug\Lab2_12var.pdb
+C:\Users\Лена Атрошенкова\Desktop\LB_2\Lab2_12var\obj\Debug\LB_2.csprojResolveAssemblyReference.cache
+C:\Users\Лена Атрошенкова\Desktop\LB_2\Lab2_12var\obj\Debug\Lab2_12var.Form1.resources
+C:\Users\Лена Атрошенкова\Desktop\LB_2\Lab2_12var\obj\Debug\Lab2_12var.Properties.Resources.resources
+C:\Users\Лена Атрошенкова\Desktop\LB_2\Lab2_12var\obj\Debug\LB_2.csproj.GenerateResource.Cache
+E:\ЗАГРУЗКИ\ЛБ1\ЛБ1\LB_2\Lab2_12var\bin\Debug\Lab2_12var.exe.config
+E:\ЗАГРУЗКИ\ЛБ1\ЛБ1\LB_2\Lab2_12var\obj\Debug\Lab2_12var.exe
+E:\ЗАГРУЗКИ\ЛБ1\ЛБ1\LB_2\Lab2_12var\obj\Debug\Lab2_12var.pdb
+E:\ЗАГРУЗКИ\ЛБ1\ЛБ1\LB_2\Lab2_12var\bin\Debug\Lab2_12var.exe
+E:\ЗАГРУЗКИ\ЛБ1\ЛБ1\LB_2\Lab2_12var\bin\Debug\Lab2_12var.pdb
+E:\ЗАГРУЗКИ\ЛБ1\ЛБ1\LB_2\Lab2_12var\obj\Debug\LB_2.csprojResolveAssemblyReference.cache
+E:\ЗАГРУЗКИ\ЛБ1\ЛБ1\LB_2\Lab2_12var\obj\Debug\Lab2_12var.Form1.resources
+E:\ЗАГРУЗКИ\ЛБ1\ЛБ1\LB_2\Lab2_12var\obj\Debug\Lab2_12var.Properties.Resources.resources
+E:\ЗАГРУЗКИ\ЛБ1\ЛБ1\LB_2\Lab2_12var\obj\Debug\LB_2.csproj.GenerateResource.Cache
+D:\Учебная флешка 12 10 2016 10 00\Интеллектуальные системы\LB_2\Lab2_12var\obj\Debug\LB_2.csprojResolveAssemblyReference.cache
+D:\Учебная флешка 12 10 2016 10 00\Интеллектуальные системы\LB_2\Lab2_12var\obj\Debug\LB_2.csproj.GenerateResource.Cache
+D:\Учебная флешка 12 10 2016 10 00\Интеллектуальные системы\LB_2\Lab2_12var\bin\Debug\Lab2_8var.exe.config
+D:\Учебная флешка 12 10 2016 10 00\Интеллектуальные системы\LB_2\Lab2_12var\obj\Debug\Lab2_8var.MainForm.resources
+D:\Учебная флешка 12 10 2016 10 00\Интеллектуальные системы\LB_2\Lab2_12var\obj\Debug\Lab2_8var.Properties.Resources.resources
+D:\Учебная флешка 12 10 2016 10 00\Интеллектуальные системы\LB_2\Lab2_12var\bin\Debug\Lab2_8var.exe
+D:\Учебная флешка 12 10 2016 10 00\Интеллектуальные системы\LB_2\Lab2_12var\bin\Debug\Lab2_8var.pdb
+D:\Учебная флешка 12 10 2016 10 00\Интеллектуальные системы\LB_2\Lab2_12var\obj\Debug\Lab2_8var.exe
+D:\Учебная флешка 12 10 2016 10 00\Интеллектуальные системы\LB_2\Lab2_12var\obj\Debug\Lab2_8var.pdb
+D:\university\Интелектуальные системы\Лаб2\Вып\Lab2_8var\bin\Debug\Lab2_8var.exe.config
+D:\university\Интелектуальные системы\Лаб2\Вып\Lab2_8var\obj\Debug\Lab2_8var.exe
+D:\university\Интелектуальные системы\Лаб2\Вып\Lab2_8var\obj\Debug\Lab2_8var.pdb

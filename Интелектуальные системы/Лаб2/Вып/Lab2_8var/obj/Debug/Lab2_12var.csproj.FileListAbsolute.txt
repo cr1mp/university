@@ -1,0 +1,45 @@
+C:\Users\Sergey\Downloads\Lab2_\Lab2_22var\bin\Debug\Lab2_12var.exe.config
+C:\Users\Sergey\Downloads\Lab2_\Lab2_22var\obj\Debug\Lab2_12var.exe
+C:\Users\Sergey\Downloads\Lab2_\Lab2_22var\obj\Debug\Lab2_12var.pdb
+C:\Users\Sergey\Downloads\Lab2_\Lab2_22var\obj\Debug\Lab2_12var.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Downloads\Lab2_\Lab2_22var\obj\Debug\Lab2_22var.Form1.resources
+C:\Users\Sergey\Downloads\Lab2_\Lab2_22var\obj\Debug\Lab2_12var.Properties.Resources.resources
+C:\Users\Sergey\Downloads\Lab2_\Lab2_22var\obj\Debug\Lab2_12var.csproj.GenerateResource.Cache
+C:\Users\Sergey\Downloads\Lab2_\Lab2_22var\bin\Debug\Lab2_12var.exe
+C:\Users\Sergey\Downloads\Lab2_\Lab2_22var\bin\Debug\Lab2_12var.pdb
+D:\Lab2_\Lab2_22var\bin\Debug\Lab2_12var.exe.config
+D:\Lab2_\Lab2_22var\obj\Debug\Lab2_12var.exe
+D:\Lab2_\Lab2_22var\obj\Debug\Lab2_12var.pdb
+E:\UNIVERSITY\Magistracy\I\Интеллектуальные системы\ЛР_2\Lab2_\Lab2_22var\bin\Debug\Lab2_12var.exe.config
+E:\UNIVERSITY\Magistracy\I\Интеллектуальные системы\ЛР_2\Lab2_\Lab2_22var\obj\Debug\Lab2_12var.exe
+E:\UNIVERSITY\Magistracy\I\Интеллектуальные системы\ЛР_2\Lab2_\Lab2_22var\obj\Debug\Lab2_12var.pdb
+E:\UNIVERSITY\Magistracy\I\Интеллектуальные системы\ЛР_2\Lab2_\Lab2_22var\bin\Debug\Lab2_12var.exe
+E:\UNIVERSITY\Magistracy\I\Интеллектуальные системы\ЛР_2\Lab2_\Lab2_22var\bin\Debug\Lab2_12var.pdb
+E:\UNIVERSITY\Magistracy\I\Интеллектуальные системы\ЛР_2\Lab2_\Lab2_22var\obj\Debug\Lab2_12var.csprojResolveAssemblyReference.cache
+E:\UNIVERSITY\Magistracy\I\Интеллектуальные системы\ЛР_2\Lab2_\Lab2_22var\obj\Debug\Lab2_12var.Form1.resources
+E:\UNIVERSITY\Magistracy\I\Интеллектуальные системы\ЛР_2\Lab2_\Lab2_22var\obj\Debug\Lab2_12var.Properties.Resources.resources
+E:\UNIVERSITY\Magistracy\I\Интеллектуальные системы\ЛР_2\Lab2_\Lab2_22var\obj\Debug\Lab2_12var.csproj.GenerateResource.Cache
+E:\UNIVERSITY\Magistracy\I\Интеллектуальные системы\ЛР_2\Lab2_12var\Lab2_12var\bin\Debug\Lab2_12var.exe.config
+E:\UNIVERSITY\Magistracy\I\Интеллектуальные системы\ЛР_2\Lab2_12var\Lab2_12var\obj\Debug\Lab2_12var.exe
+E:\UNIVERSITY\Magistracy\I\Интеллектуальные системы\ЛР_2\Lab2_12var\Lab2_12var\obj\Debug\Lab2_12var.pdb
+C:\Users\Лена Атрошенкова\Downloads\ИС\Intellektualnye_sistemy\ЛР_2\Lab2_12var\Lab2_12var\bin\Debug\Lab2_12var.exe.config
+C:\Users\Лена Атрошенкова\Downloads\ИС\Intellektualnye_sistemy\ЛР_2\Lab2_12var\Lab2_12var\obj\Debug\Lab2_12var.exe
+C:\Users\Лена Атрошенкова\Downloads\ИС\Intellektualnye_sistemy\ЛР_2\Lab2_12var\Lab2_12var\obj\Debug\Lab2_12var.pdb
+C:\Users\Лена Атрошенкова\Downloads\ИС\Intellektualnye_sistemy\ЛР_2\Lab2_12var\Lab2_12var\bin\Debug\Lab2_12var.exe
+C:\Users\Лена Атрошенкова\Downloads\ИС\Intellektualnye_sistemy\ЛР_2\Lab2_12var\Lab2_12var\bin\Debug\Lab2_12var.pdb
+C:\Users\Лена Атрошенкова\Downloads\ИС\Intellektualnye_sistemy\ЛР_2\Lab2_12var\Lab2_12var\obj\Debug\Lab2_12var.csprojResolveAssemblyReference.cache
+C:\Users\Лена Атрошенкова\Downloads\ИС\Intellektualnye_sistemy\ЛР_2\Lab2_12var\Lab2_12var\obj\Debug\Lab2_12var.Form1.resources
+C:\Users\Лена Атрошенкова\Downloads\ИС\Intellektualnye_sistemy\ЛР_2\Lab2_12var\Lab2_12var\obj\Debug\Lab2_12var.Properties.Resources.resources
+C:\Users\Лена Атрошенкова\Downloads\ИС\Intellektualnye_sistemy\ЛР_2\Lab2_12var\Lab2_12var\obj\Debug\Lab2_12var.csproj.GenerateResource.Cache
+C:\Users\Лена Атрошенкова\Downloads\ИС\1 вариант баев\ЛР_2\Lab2_12var\Lab2_12var\bin\Debug\Lab2_12var.exe.config
+C:\Users\Лена Атрошенкова\Downloads\ИС\1 вариант баев\ЛР_2\Lab2_12var\Lab2_12var\obj\Debug\Lab2_12var.exe
+C:\Users\Лена Атрошенкова\Downloads\ИС\1 вариант баев\ЛР_2\Lab2_12var\Lab2_12var\obj\Debug\Lab2_12var.pdb
+C:\Users\Лена Атрошенкова\Desktop\LB_2\Lab2_12var\bin\Debug\Lab2_12var.exe.config
+C:\Users\Лена Атрошенкова\Desktop\LB_2\Lab2_12var\obj\Debug\Lab2_12var.exe
+C:\Users\Лена Атрошенкова\Desktop\LB_2\Lab2_12var\obj\Debug\Lab2_12var.pdb
+C:\Users\Лена Атрошенкова\Desktop\LB_2\Lab2_12var\bin\Debug\Lab2_12var.exe
+C:\Users\Лена Атрошенкова\Desktop\LB_2\Lab2_12var\bin\Debug\Lab2_12var.pdb
+C:\Users\Лена Атрошенкова\Desktop\LB_2\Lab2_12var\obj\Debug\Lab2_12var.csprojResolveAssemblyReference.cache
+C:\Users\Лена Атрошенкова\Desktop\LB_2\Lab2_12var\obj\Debug\Lab2_12var.Form1.resources
+C:\Users\Лена Атрошенкова\Desktop\LB_2\Lab2_12var\obj\Debug\Lab2_12var.Properties.Resources.resources
+C:\Users\Лена Атрошенкова\Desktop\LB_2\Lab2_12var\obj\Debug\Lab2_12var.csproj.GenerateResource.Cache
