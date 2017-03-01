@@ -1,0 +1,9 @@
+D:\university\Интелектуальные системы\Лаб2\Вып\Lab2_8var\bin\Debug\Lab2_8var.exe.config
+D:\university\Интелектуальные системы\Лаб2\Вып\Lab2_8var\bin\Debug\Lab2_8var.exe
+D:\university\Интелектуальные системы\Лаб2\Вып\Lab2_8var\bin\Debug\Lab2_8var.pdb
+D:\university\Интелектуальные системы\Лаб2\Вып\Lab2_8var\obj\Debug\LB_2.csprojResolveAssemblyReference.cache
+D:\university\Интелектуальные системы\Лаб2\Вып\Lab2_8var\obj\Debug\Lab2_8var.MainForm.resources
+D:\university\Интелектуальные системы\Лаб2\Вып\Lab2_8var\obj\Debug\Lab2_8var.Properties.Resources.resources
+D:\university\Интелектуальные системы\Лаб2\Вып\Lab2_8var\obj\Debug\LB_2.csproj.GenerateResource.Cache
+D:\university\Интелектуальные системы\Лаб2\Вып\Lab2_8var\obj\Debug\Lab2_8var.exe
+D:\university\Интелектуальные системы\Лаб2\Вып\Lab2_8var\obj\Debug\Lab2_8var.pdb

@@ -1,0 +1,49 @@
+[System]
+Name='Batulev'
+Type='sugeno'
+Version=2.0
+NumInputs=2
+NumOutputs=1
+NumRules=9
+AndMethod='min'
+OrMethod='max'
+ImpMethod='prod'
+AggMethod='sum'
+DefuzzMethod='wtaver'
+
+[Input1]
+Name='time'
+Range=[6 21]
+NumMFs=3
+MF1='morning':'gaussmf',[2.25 6]
+MF2='lunch':'gaussmf',[2.25 13.5]
+MF3='eve':'gaussmf',[2 19]
+
+[Input2]
+Name='range'
+Range=[0 25]
+NumMFs=3
+MF1='near':'trapmf',[0 0 3 6]
+MF2='far':'trapmf',[15 20 25 25]
+MF3='middle':'trimf',[3 12.5 20]
+
+[Output1]
+Name='bus'
+Range=[0 30]
+NumMFs=5
+MF1='low':'constant',[8]
+MF2='full':'constant',[25]
+MF3='empty':'constant',[0]
+MF4='many':'constant',[20]
+MF5='middle':'constant',[12]
+
+[Rules]
+1 1, 2 (1) : 1
+1 2, 5 (1) : 1
+1 3, 1 (1) : 1
+2 1, 1 (1) : 1
+2 2, 5 (1) : 1
+2 3, 4 (1) : 1
+3 1, 5 (1) : 1
+3 2, 1 (1) : 1
+3 3, 2 (1) : 1

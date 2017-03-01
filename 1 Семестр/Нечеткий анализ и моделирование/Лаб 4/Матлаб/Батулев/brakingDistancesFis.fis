@@ -1,0 +1,53 @@
+[System]
+Name='brakingDistancesFis'
+Type='sugeno'
+Version=2.0
+NumInputs=2
+NumOutputs=1
+NumRules=9
+AndMethod='prod'
+OrMethod='max'
+ImpMethod='prod'
+AggMethod='sum'
+DefuzzMethod='wtaver'
+
+[Input1]
+Name='bus'
+Range=[0 35]
+NumMFs=3
+MF1='few':'trapmf',[0 0 3.593 6.651]
+MF2='normal':'trimf',[5.138 13.41 29.86]
+MF3='many':'trapmf',[28.05 30.67 35 35]
+
+[Input2]
+Name='road'
+Range=[0 1]
+NumMFs=3
+MF1='dry':'trimf',[0 0 0.297619047619048]
+MF2='ice':'trimf',[0.80026455026455 1 1]
+MF3='rain':'trimf',[0.2 0.5 0.898148148148148]
+
+[Output1]
+Name='brakingDistances'
+Range=[0 30]
+NumMFs=9
+MF1='low1':'constant',[0]
+MF2='low2':'constant',[12.5]
+MF3='low3':'constant',[25]
+MF4='medium1':'constant',[37.5]
+MF5='medium2':'constant',[50]
+MF6='medium3':'constant',[62.5]
+MF7='high1':'constant',[75]
+MF8='high2':'constant',[87.5]
+MF9='high3':'constant',[100]
+
+[Rules]
+1 1, 1 (1) : 1
+1 3, 4 (1) : 1
+1 2, 7 (1) : 1
+2 1, 2 (1) : 1
+2 3, 5 (1) : 1
+2 2, 8 (1) : 1
+3 1, 3 (1) : 1
+3 3, 6 (1) : 1
+3 2, 9 (1) : 1
